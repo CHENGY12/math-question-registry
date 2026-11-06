@@ -1,0 +1,4 @@
+interface:
+  display_name: "数学题库采集与整理"
+  short_description: "将授权来源数学题整理为可追溯题库，支持图题、学习指导、规范排版和并行复核"
+  default_prompt: "使用 $math-question-pipeline，从授权来源试跑数学题采集与整理，验证后按知识点覆盖扩展，并输出可追溯的数据和预览。"

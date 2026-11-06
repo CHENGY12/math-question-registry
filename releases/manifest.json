@@ -1,0 +1,32 @@
+{
+  "format": "colleague-package-release/1",
+  "archive": "math-question-acquisition-kit-2026-11-06.zip",
+  "archive_sha256": "b44003a27a7ddfc8fc27730a8977cb7dc0f01f3225925090d9f515a69bee402e",
+  "bytes": 478466,
+  "files": 56,
+  "relocated_integrity_and_cli_smoke": "PASS",
+  "tests": {
+    "date": "2026-11-06",
+    "python": "3.9.13",
+    "test_command": "python -m unittest discover -s tests -p 'test_*.py'",
+    "test_count": 60,
+    "duration_seconds": 43.263,
+    "result": "PASS",
+    "skill_validation": "PASS",
+    "scope": [
+      "local processing runner and source adapter regression",
+      "native Word math retention and explicit review gate",
+      "complete knowledge tag boundaries",
+      "isolated local Git claim concurrency and failure recovery",
+      "batch-end backup against temporary local destinations"
+    ],
+    "live_registry_duplicate_probe": "PASS: all 100 already-captured IDs rejected without a new claim",
+    "limits": [
+      "Colleague GitHub write permissions still need to be granted individually.",
+      "No fresh zero-to-100 basket timing was measured.",
+      "No new batch Drive upload or full 100-question mathematical review is included.",
+      "Server-side branch protection is not enabled; collaborators must use the supplied protocol."
+    ]
+  },
+  "public_source_material_included": false
+}
