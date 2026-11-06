@@ -1,0 +1,7 @@
+{
+  "automatic_ttl_release": false,
+  "format": "math-question-team-registry/1",
+  "public_data_policy": "IDs, status, batch indices, aliases and hashes only; no source text, media, account identities, machine paths or Drive IDs/URLs.",
+  "question_path": "questions/<platform>/<subject>/<question_id>.json",
+  "quota_concurrency_supported": false
+}
