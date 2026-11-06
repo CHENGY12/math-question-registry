@@ -1,0 +1,28 @@
+{
+  "account_id": "account_001",
+  "batch_id": "historical-pilot-5",
+  "claim_token": "a4230cda-7fa2-47c4-b636-a8d2afa48eb0",
+  "claimed_at": "2026-11-06T13:08:03+00:00",
+  "format": "math-question-team-registry/1",
+  "history": [
+    {
+      "action": "seed",
+      "at": "2026-11-06T13:08:03+00:00",
+      "batch_id": "historical-pilot-5",
+      "claim_token": "a4230cda-7fa2-47c4-b636-a8d2afa48eb0",
+      "from": null,
+      "operation_id": "afc8b6086d6a4ebeb3b22f77f190a69c",
+      "owner": "operator_001",
+      "to": "captured"
+    }
+  ],
+  "key": "xkw/gzsx/36233740",
+  "local_status": "source_received",
+  "owner": "operator_001",
+  "platform": "xkw",
+  "question_id": "36233740",
+  "source_sha256": "33444da372f01a7b71ef0929e5363fe3ce8614bb42227b5a0b961a310378c368",
+  "state": "captured",
+  "subject": "gzsx",
+  "updated_at": "2026-11-06T13:08:03+00:00"
+}
