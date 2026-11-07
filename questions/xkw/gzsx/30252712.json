@@ -24,13 +24,25 @@
       "operation_id": "653de7a6bd3a4ce9997b4a597cd5298e",
       "owner": "operator_001",
       "to": "downloading"
+    },
+    {
+      "action": "transition",
+      "at": "2026-11-07T04:41:01+00:00",
+      "batch_id": "jiangsu-2000-2026-11-06-c54",
+      "claim_token": "2a04f2ddfa1d4dbaae3056cf8280e2f9",
+      "from": "downloading",
+      "operation_id": "6cca7b566ec84aa7b06de710d9888c73",
+      "owner": "operator_001",
+      "to": "captured"
     }
   ],
   "key": "xkw/gzsx/30252712",
+  "local_status": "source_received",
   "owner": "operator_001",
   "platform": "xkw",
   "question_id": "30252712",
-  "state": "downloading",
+  "source_sha256": "d5c87a40cdbfc0d45a3ac22f6cf20bbf10fb6e1d847ca6dc2b84a4b26518a990",
+  "state": "captured",
   "subject": "gzsx",
-  "updated_at": "2026-11-07T04:32:51+00:00"
+  "updated_at": "2026-11-07T04:41:01+00:00"
 }
