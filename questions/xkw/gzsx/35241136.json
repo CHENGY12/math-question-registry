@@ -14,13 +14,23 @@
       "operation_id": "b98f5db8d8754bec8533a1332759d43b",
       "owner": "huan",
       "to": "reserved"
+    },
+    {
+      "action": "transition",
+      "at": "2026-11-11T14:44:32+00:00",
+      "batch_id": "huan-xkw089997122-c16",
+      "claim_token": "3911ef063ead44d0bb807a03ef456a40",
+      "from": "reserved",
+      "operation_id": "b2967bfc60354d468a5c0178abcea5e5",
+      "owner": "huan",
+      "to": "downloading"
     }
   ],
   "key": "xkw/gzsx/35241136",
   "owner": "huan",
   "platform": "xkw",
   "question_id": "35241136",
-  "state": "reserved",
+  "state": "downloading",
   "subject": "gzsx",
-  "updated_at": "2026-11-11T14:23:14+00:00"
+  "updated_at": "2026-11-11T14:44:32+00:00"
 }
