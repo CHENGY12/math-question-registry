@@ -24,13 +24,25 @@
       "operation_id": "2bd66a1d0a1e4b988b6d83034329d8a8",
       "owner": "teacher_Admin",
       "to": "downloading"
+    },
+    {
+      "action": "transition",
+      "at": "2026-11-19T03:20:07+00:00",
+      "batch_id": "huaxue-20261118-teacher_Admin-hx2-c16",
+      "claim_token": "501eec3da930447e9fb40e1047109a92",
+      "from": "downloading",
+      "operation_id": "0e0b66319ccb4bd69c77f8484c39c99e",
+      "owner": "teacher_Admin",
+      "to": "captured"
     }
   ],
   "key": "xkw/gzhx/25114695",
+  "local_status": "source_received",
   "owner": "teacher_Admin",
   "platform": "xkw",
   "question_id": "25114695",
-  "state": "downloading",
+  "source_sha256": "40670740a2e9929583e095f55964e51b869ae4922bf76c84595deb848728718a",
+  "state": "captured",
   "subject": "gzhx",
-  "updated_at": "2026-11-19T03:19:26+00:00"
+  "updated_at": "2026-11-19T03:20:07+00:00"
 }
