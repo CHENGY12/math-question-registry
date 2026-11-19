@@ -14,13 +14,23 @@
       "operation_id": "f7268c569b8c49c99dcef46e8a35c128",
       "owner": "teacher_user",
       "to": "reserved"
+    },
+    {
+      "action": "transition",
+      "at": "2026-11-19T02:35:38+00:00",
+      "batch_id": "shengwu-20261117-teacher_user-sw2-c40",
+      "claim_token": "1e71f37aad994ef684c324d389558dcb",
+      "from": "reserved",
+      "operation_id": "d6e47f28b1a0477a878b44bd9c28fd1a",
+      "owner": "teacher_user",
+      "to": "downloading"
     }
   ],
   "key": "xkw/gzsw/9645102",
   "owner": "teacher_user",
   "platform": "xkw",
   "question_id": "9645102",
-  "state": "reserved",
+  "state": "downloading",
   "subject": "gzsw",
-  "updated_at": "2026-11-19T02:10:43+00:00"
+  "updated_at": "2026-11-19T02:35:38+00:00"
 }
