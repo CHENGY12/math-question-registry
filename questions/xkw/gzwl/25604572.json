@@ -1,0 +1,26 @@
+{
+  "account_id": "yq_1",
+  "batch_id": "wuli-20261114-yqchen-c102",
+  "claim_token": "f4525f8da26e4449b93d05900aad8b4e",
+  "claimed_at": "2026-11-20T16:52:31+00:00",
+  "format": "math-question-team-registry/1",
+  "history": [
+    {
+      "action": "claim",
+      "at": "2026-11-20T16:52:31+00:00",
+      "batch_id": "wuli-20261114-yqchen-c102",
+      "claim_token": "f4525f8da26e4449b93d05900aad8b4e",
+      "from": null,
+      "operation_id": "f50890ab178b479ba797d378994ea910",
+      "owner": "yqchen",
+      "to": "reserved"
+    }
+  ],
+  "key": "xkw/gzwl/25604572",
+  "owner": "yqchen",
+  "platform": "xkw",
+  "question_id": "25604572",
+  "state": "reserved",
+  "subject": "gzwl",
+  "updated_at": "2026-11-20T16:52:31+00:00"
+}
