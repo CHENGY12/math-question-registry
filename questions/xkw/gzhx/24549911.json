@@ -1,0 +1,26 @@
+{
+  "account_id": "account_teacher_user_10",
+  "batch_id": "huaxue-20261121-teacher_Admin-hx5-c60",
+  "claim_token": "63be8711c8064e9d97dcc15275011e67",
+  "claimed_at": "2026-11-26T11:59:21+00:00",
+  "format": "math-question-team-registry/1",
+  "history": [
+    {
+      "action": "claim",
+      "at": "2026-11-26T11:59:21+00:00",
+      "batch_id": "huaxue-20261121-teacher_Admin-hx5-c60",
+      "claim_token": "63be8711c8064e9d97dcc15275011e67",
+      "from": null,
+      "operation_id": "4a0c146388524921a49d75bc50eb0936",
+      "owner": "teacher_Admin",
+      "to": "reserved"
+    }
+  ],
+  "key": "xkw/gzhx/24549911",
+  "owner": "teacher_Admin",
+  "platform": "xkw",
+  "question_id": "24549911",
+  "state": "reserved",
+  "subject": "gzhx",
+  "updated_at": "2026-11-26T11:59:21+00:00"
+}
