@@ -14,13 +14,23 @@
       "operation_id": "cdaeeed6f9404078958bc44560123748",
       "owner": "yqchen",
       "to": "reserved"
+    },
+    {
+      "action": "transition",
+      "at": "2026-11-27T17:30:47+00:00",
+      "batch_id": "wuli-20261114-yqchen-c210",
+      "claim_token": "f2e39ebff7ca417dbde38386f95f3ae7",
+      "from": "reserved",
+      "operation_id": "ffa01fa8c13d4e209b681d90fc6d798e",
+      "owner": "yqchen",
+      "to": "downloading"
     }
   ],
   "key": "xkw/gzwl/28824393",
   "owner": "yqchen",
   "platform": "xkw",
   "question_id": "28824393",
-  "state": "reserved",
+  "state": "downloading",
   "subject": "gzwl",
-  "updated_at": "2026-11-27T10:59:52+00:00"
+  "updated_at": "2026-11-27T17:30:47+00:00"
 }
