@@ -1,0 +1,26 @@
+{
+  "account_id": "xkw090012474",
+  "batch_id": "huan-xkw090012474-c130",
+  "claim_token": "c78ed93a6e5f4301b7c609a88f5aa2eb",
+  "claimed_at": "2026-11-27T13:47:38+00:00",
+  "format": "math-question-team-registry/1",
+  "history": [
+    {
+      "action": "claim",
+      "at": "2026-11-27T13:47:38+00:00",
+      "batch_id": "huan-xkw090012474-c130",
+      "claim_token": "c78ed93a6e5f4301b7c609a88f5aa2eb",
+      "from": null,
+      "operation_id": "a196a38828bc4c5a9875f8575eb8dc90",
+      "owner": "huan",
+      "to": "reserved"
+    }
+  ],
+  "key": "xkw/gzsx/29939423",
+  "owner": "huan",
+  "platform": "xkw",
+  "question_id": "29939423",
+  "state": "reserved",
+  "subject": "gzsx",
+  "updated_at": "2026-11-27T13:47:38+00:00"
+}
